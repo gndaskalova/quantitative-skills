@@ -24,6 +24,7 @@ Today over 50 of us have gathered for the University of Edinburgh Practical appr
  
  #### We asked ourselves: 
  
+ 
  #### How quantitative do you think you are relative to your peers? 
  
 We all closed our eyes (except the one person counting) and voted on a scale of 0 to 10. Five means you are equivalent to your peers. Zero means you feel way behind and you think you have no quantitative skills. Ten means you think you'll win the Field medal next year, because your quantitative skills are oustanding.
