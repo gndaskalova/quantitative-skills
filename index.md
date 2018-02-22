@@ -71,8 +71,6 @@ ggplot(results, aes(Score)) +
 
 Coding Club aims to create a supportive peer-to-peer community to advance quantitative skills among scientists at all career stages. We combine in-person workshops with online tutorials (https://ourcodingclub.github.io/) to promote statistical and programming fluency in the programming language R. We want to combat statistics anxiety and code fear to facilitate career progression and life-long learning. Coding Club workshops are free and open to all and represent a judgement-free opportunity for people to acquire a skill set tailored to their scientific needs.
 
-<center> <img src="{{ site.baseurl }}/IMAGE_NAME.png" alt="Img" style="width: 800px;"/> </center>
-
 <a name="section3"></a>
 
 ## 3. Re-evaluate your quantitative skills
@@ -81,7 +79,7 @@ __Can thinking about quantitative training change your perception of your own qu
 
 We closed our eyes once more and re-evaluated our skills. What did we find?
 
-<center> <img src="{{ site.baseurl }}/IMAGE_NAME.png" alt="Img" style="width: 800px;"/> </center>
+<center> <img src="{{ site.baseurl }}/after.png" alt="Img" style="width: 800px;"/> </center>
 
 Here is the code for our updated graph:
 
