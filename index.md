@@ -1,4 +1,4 @@
-<center><img src="{{ site.baseurl }}/tutheaderbl.png" alt="Img"></center>
+<center><img src="{{ site.baseurl }}/CodingClub_logo2.png" alt="Img"></center>
 
 To add images, replace `tutheaderbl1.png` with the file name of any image you upload to your GitHub repository.
 
