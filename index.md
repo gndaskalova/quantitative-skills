@@ -34,6 +34,14 @@ So what did we find? We quickly put the data together and made this graph of the
 
 <center> <img src="{{ site.baseurl }}/IMAGE_NAME.png" alt="Img" style="width: 800px;"/> </center>
 
+You can find the data from our speed survey in the GitHub repository for this tutorial. Here is the code we used to create our graph:
+
+```r
+ggplot(results, aes(score)) +
+  geom_density(alpha = 0.5) +
+  theme_classic()
+```
+
 <a name="section2"></a>
 
 ## 2. Learn about Coding Club
@@ -51,6 +59,14 @@ __Can thinking about quantitative training change your perception of your own qu
 We closed our eyes once more and re-evaluated our skills. What did we find?
 
 <center> <img src="{{ site.baseurl }}/IMAGE_NAME.png" alt="Img" style="width: 800px;"/> </center>
+
+Here is the code for our updated graph:
+
+```r
+ggplot(results, aes(score, fill = test, colour = test)) +
+  geom_density(alpha = 0.5) +
+  theme_classic()
+```
 
 This tutorial has taught us about… 
 
