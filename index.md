@@ -19,6 +19,19 @@ Today over 50 of us have gathered for the University of Edinburgh Practical appr
 
  - Ecology
  - Environmental science
+ - Chemistry
+ - Biology
+ - Engineering
+ - Physics
+ - Informatics
+ - Ecology
+ - Medicine
+ - Veterinary
+ - Math
+ - Psychology
+ - Neuroscience
+ - Interdisciplinary research and studies
+- Philospphy
 
  
  
