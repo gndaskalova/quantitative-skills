@@ -22,8 +22,7 @@ Today over 50 of us have gathered for the University of Edinburgh Practical appr
 
  
  
- #### We asked ourselves: 
- 
+__We asked ourselves:__
  
  #### How quantitative do you think you are relative to your peers? 
  
