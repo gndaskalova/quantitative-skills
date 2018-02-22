@@ -21,8 +21,8 @@ Today over 50 of us have gathered for the University of Edinburgh Practical appr
  - Environmental science
 
  
- #### We asked ourselves: 
  
+ #### We asked ourselves: 
  
  #### How quantitative do you think you are relative to your peers? 
  
