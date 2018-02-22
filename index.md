@@ -45,9 +45,9 @@ We all closed our eyes (except the one person counting) and voted on a scale of 
 
 So what did we find? We quickly put the data together and made this graph of the results:
 
-<center> <img src="{{ site.baseurl }}/before_scores.png" alt="Img" style="width: 800px;"/> </center>
+<center> <img src="{{ site.baseurl }}/before_scores.png" alt="Img" style="width: 700px;"/> </center>
 
-You can find the data from our speed survey in the GitHub repository for this tutorial. Here is the code we used to create our graph:
+You can find the data from our speed survey in the <a href="https://github.com/gndaskalova/quantitative-skills" target="_blank">GitHub repository</a> for this tutorial. Here is the code we used to create our graph:
 
 ```r
 # How do we perceive our quantitative skills?
@@ -74,7 +74,7 @@ We learned that our perceptions of our own quantitative skills relative to our p
 
 Next we learned about Coding Club!
 
-Coding Club aims to create a supportive peer-to-peer community to advance quantitative skills among scientists at all career stages. We combine in-person workshops with online tutorials (https://ourcodingclub.github.io/) to promote statistical and programming fluency in the programming language R. We want to combat statistics anxiety and code fear to facilitate career progression and life-long learning. Coding Club workshops are free and open to all and represent a judgement-free opportunity for people to acquire a skill set tailored to their scientific needs.
+Coding Club aims to create a supportive peer-to-peer community to advance quantitative skills among scientists at all career stages. We combine in-person workshops with <a href="https://ourcodingclub.github.io/" target="_blank">online tutorials</a> to promote statistical and programming fluency in the programming language R. We want to combat statistics anxiety and code fear to facilitate career progression and life-long learning. Coding Club workshops are free and open to all and represent a judgement-free opportunity for people to acquire a skill set tailored to their scientific needs.
 
 <a name="section3"></a>
 
@@ -85,7 +85,7 @@ __Can thinking about quantitative training change your perception of your own qu
 
 After thinking about the Coding Club initiative for about 10 minutes, we closed our eyes once more and re-evaluated our skills. What did we find?
 
-<center> <img src="{{ site.baseurl }}/after.png" alt="Img" style="width: 800px;"/> </center>
+<center> <img src="{{ site.baseurl }}/after.png" alt="Img" style="width: 700px;"/> </center>
 
 Here is the code for our updated graph:
 
