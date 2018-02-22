@@ -19,12 +19,7 @@ Today over 50 of us have gathered for the University of Edinburgh Practical appr
 
  - Ecology
  - Environmental science
- -
- -
- -
- -
- 
- 
+
  
  #### We asked ourselves: 
  
