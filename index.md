@@ -37,8 +37,18 @@ So what did we find? We quickly put the data together and made this graph of the
 You can find the data from our speed survey in the GitHub repository for this tutorial. Here is the code we used to create our graph:
 
 ```r
-ggplot(results, aes(score)) +
-  geom_density(alpha = 0.5) +
+# How do we perceive our quantitative skills?
+# University of Edinburgh symposium 22nd Feb
+# The Coding Club Team
+
+library(ggplot2)
+
+# Load data from the repository
+
+# Before the workshop
+ggplot(results, aes(Score)) +
+  geom_density(alpha = 0.5, colour = "cyan4", fill = "cyan3") +
+  scale_x_continuous(limits = c(0, 10)) +
   theme_classic()
 ```
 
@@ -63,8 +73,9 @@ We closed our eyes once more and re-evaluated our skills. What did we find?
 Here is the code for our updated graph:
 
 ```r
-ggplot(results, aes(score, fill = test, colour = test)) +
+ggplot(results, aes(score, fill = Time, colour = Time)) +
   geom_density(alpha = 0.5) +
+  scale_x_continuous(limits = c(0, 10)) +
   theme_classic()
 ```
 
