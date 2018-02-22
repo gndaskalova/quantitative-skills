@@ -45,7 +45,7 @@ We all closed our eyes (except the one person counting) and voted on a scale of 
 
 So what did we find? We quickly put the data together and made this graph of the results:
 
-<center> <img src="{{ site.baseurl }}/IMAGE_NAME.png" alt="Img" style="width: 800px;"/> </center>
+<center> <img src="{{ site.baseurl }}/before_scores.png" alt="Img" style="width: 800px;"/> </center>
 
 You can find the data from our speed survey in the GitHub repository for this tutorial. Here is the code we used to create our graph:
 
