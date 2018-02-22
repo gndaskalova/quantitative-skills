@@ -25,7 +25,7 @@ Today over 50 of us have gathered for the University of Edinburgh Practical appr
 __We asked ourselves:__
  
  
- #### How quantitative do you think you are relative to your peers? 
+__How quantitative do you think you are relative to your peers?__
  
  
 We all closed our eyes (except the one person counting) and voted on a scale of 0 to 10. Five means you are equivalent to your peers. Zero means you feel way behind and you think you have no quantitative skills. Ten means you think you'll win the Field medal next year, because your quantitative skills are oustanding.
@@ -73,6 +73,7 @@ We closed our eyes once more and re-evaluated our skills. What did we find?
 Here is the code for our updated graph:
 
 ```r
+# Compare perception of quantitative skills before and after workshop
 ggplot(results, aes(score, fill = Time, colour = Time)) +
   geom_density(alpha = 0.5) +
   scale_x_continuous(limits = c(0, 10)) +
